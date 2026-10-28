@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Diego! 👋
 
-<!--
-**161007/161007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trabalho com tecnologgia a mais de 2 anos, estou começando a desenvolver codigos agora e tenho muito a aprender!
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que utilizo:
+- 💻 HTML / CSS
+- 🟨 JavaScript
+- 🐍 Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Meu objetivo atual:
+Estou aprendendo a utilizar o GitHub e documentando meus primeiros passos!
+
+## 📬 Como me encontrar:
+- 💼 [LinkedIn] www.linkedin.com/in/diego-teixeira-8621112bb
+- 📧 dn782135@gmail.com
+
